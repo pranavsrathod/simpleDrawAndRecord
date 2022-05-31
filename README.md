@@ -17,7 +17,7 @@ The initial screen, gives the user an option if they would like to draw or recor
 
 Option Draw : 
 User gets the entire screen as a blank canvas along with a floating action button to record voice input.
-<img width="465" alt="Screen Shot 2022-05-31 at 4 46 19 PM" src="https://user-images.githubusercontent.com/79948560/171289725-121789c0-b6d2-4c64-9fe8-fccf9bdd92e0.png"> <img width="445" alt="Screen Shot 2022-05-31 at 4 46 53 PM" src="https://user-images.githubusercontent.com/79948560/171289793-63ea57ca-4322-41aa-a578-e856bb5cf46e.png">
+<img width="465" alt="Screen Shot 2022-05-31 at 4 46 19 PM" src="https://user-images.githubusercontent.com/79948560/171289725-121789c0-b6d2-4c64-9fe8-fccf9bdd92e0.png">         <img width="445" alt="Screen Shot 2022-05-31 at 4 46 53 PM" src="https://user-images.githubusercontent.com/79948560/171289793-63ea57ca-4322-41aa-a578-e856bb5cf46e.png">
 
 Option Record : 
 The User can record their voice input which will be coverted and stored as base64 string.
