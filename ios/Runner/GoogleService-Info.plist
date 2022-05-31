@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>262362752970-gatjsabs8ngon63tks3cn2kvoi78ecod.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.262362752970-gatjsabs8ngon63tks3cn2kvoi78ecod</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCFSx_6LCC9VMDXtaFAt-KgULEYTfauC0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>262362752970</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pranavRathodTrailProject</string>
+	<key>PROJECT_ID</key>
+	<string>simpledrawandrecord</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simpledrawandrecord.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:262362752970:ios:2fa05dbafc9c45dd7b9133</string>
+</dict>
+</plist>

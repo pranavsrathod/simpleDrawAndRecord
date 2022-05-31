@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262362752970",
+    "project_id": "simpledrawandrecord",
+    "storage_bucket": "simpledrawandrecord.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262362752970:android:f3ae61eb561136c97b9133",
+        "android_client_info": {
+          "package_name": "com.example.pranav_rathod_trail_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262362752970-kf0m3255tl12elqbl89tfo27no49kmmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0k3BnN6MStuGk3o5Q37hGCi4iq3GeU6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262362752970-kf0m3255tl12elqbl89tfo27no49kmmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
